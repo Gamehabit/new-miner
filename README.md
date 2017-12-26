@@ -1,0 +1,2 @@
+# new-miner
+begginer
